@@ -23,7 +23,7 @@ Hi, I'm **Swaraj Saha** — a passionate Computer Science undergraduate at Kalin
 - Graph Theory applications in EEG analysis
 
 ## 📄 Resume
-You can view or download my resume [here](./SwarajSaha_Resume.pdf).
+You can view or download my resume [here](./SwarajSaha_resume.docx).
 
 ### 📫 Connect with Me
 - 📧 Email: sahaswaraj0@gmail.com
